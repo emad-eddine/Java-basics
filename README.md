@@ -20,26 +20,26 @@ Find a variety of assignments categorized by Java fundamentals branches:
 
 1. **Introduction**
    - Variables and String Manipulation
-   - [Assignment 1](./assignments/introduction/assignment1.md): Simple User Information
+   - [Assignment 1](./Assignments/L1FirstStep): Simple User Information
 
 2. **Condition Statements**
    - if-else and switch
-   - [Assignment 2](./assignments/condition_statements/assignment2.md): Grade Calculator
+   - [Assignment 2](./Assignments/L2conditionStatements): Grade Calculator
 
 3. **Loops**
    - for, while, do-while
-   - [Assignment 3](./assignments/loops/assignment3.md): Multiplication Table
+   - [Assignment 3](./Assignments/L3Loops): Multiplication Table
 
 4. **Functions and Methods**
-   - [Assignment 4](./assignments/functions_and_methods/assignment4.md): Calculator Methods
+   - [Assignment 4](./Assignments/L4Functions): Calculator Methods
 
 5. **Data Structures**
    - Arrays and Lists
-   - [Assignment 5](./assignments/data_structures/assignment5.md): Array Manipulation
+   - [Assignment 5](./Assignments/L5DataStructure): Array Manipulation
 
 6. **Object-Oriented Programming (OOP)**
    - Classes, Static, Modifiers, Inheritance
-   - [Assignment 6](./assignments/oop/assignment6.md): Student Management System
+   - [Assignment 6](./Assignments/L6OOP): Student Management System
 
 ## How to Use
 

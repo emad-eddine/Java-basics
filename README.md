@@ -7,8 +7,7 @@ Welcome to the Java Fundamentals Repository! 🚀 This repository is designed to
 - [Introduction](#introduction)
 - [Assignments](#assignments)
 - [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 

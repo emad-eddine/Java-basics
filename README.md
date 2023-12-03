@@ -45,4 +45,4 @@ Find a variety of assignments categorized by Java fundamentals branches:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/java-fundamentals.git
+   git clone https://github.com/emad-eddine/Java-basics.git
